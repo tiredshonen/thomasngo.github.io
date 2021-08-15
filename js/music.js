@@ -1,6 +1,6 @@
 var songName; 
 var songArtist; 
-var accessToken = 'BQDF_cwWOz9FSKKcQHm6esMYJxxKLkr6H5B03jdkqnno1-px6xl4EJDSn0cMhoZy9zbLLx640xxBW0sPptMu0zKBlO2pisdGHrcun0J2cpF2x5P7936TQ66tf8fGpcB_E3ky8H7IeYryEUax4Ye2gJ2cCuX4'; 
+var accessToken = 'BQBQ0H3GsoZ-fdzC7SkCY2jbn8a9WMfNykH3Fz0_ARxMBqXbn_SUp8KT9FqJ-PSSUqiw3ftJnGMVZcU6ynMsQbtNFP-k2IKFyLYOTF78tdX9isvda-TXYBF4y2niFmZ6DMF7NW6mzUSbC2o7bL3oO96G92FH'; 
 
 const getActivity = async () => {
     //Get authorization code
